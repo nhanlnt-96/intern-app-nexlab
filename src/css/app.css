@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+html,
+body {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Inter", sans-serif;
+  src: url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+}
+.font-primary {
+  font-family: "Inter", sans-serif;
+}
+
+.ct-bg-gray {
+  background-color: #f4f5f7;
+}
+
+.ct-text-gray {
+  color: #697388;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.dp-flex {
+  display: flex;
+}
+
+.long-and-truncated {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.flex-child {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.flex-parent {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+/*# sourceMappingURL=app.css.map */
