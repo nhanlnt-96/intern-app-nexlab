@@ -26,8 +26,8 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
-    "@quasar/app": "^3.0.0",
-    "@quasar/cli": "^1.2.1",
+    "@quasar/app": "^3.3.2",
+    "@quasar/cli": "^1.4.0",
     "@types/croppie": "^2.6.1",
     "@types/lodash": "^4.14.172",
     "@types/node": "^10.17.15",
